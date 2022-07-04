@@ -1,6 +1,6 @@
 # 💡 Projetos Javascript
 
-Projetos desenvolvidos na disciplina de Lógica de Programação do curso de Front-End da FIAP
+Projetos desenvolvidos na disciplina de Lógica de Programação do curso de Front-End da FIAP.
 
 ```
 01 - Calculo de autonomia de veiculo
